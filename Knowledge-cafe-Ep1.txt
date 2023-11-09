@@ -1,4 +1,4 @@
 Knowledge-cafe-EP-1 
 Topic : Git and Github
-Presenter  : Mahesh Dhage
+Presenter  : Mandeep
 Date : 09/11/2023
